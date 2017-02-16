@@ -1,0 +1,8 @@
+D:\Dev\CurseProject\OPR\OPR\bin\Debug\OPR.exe.config
+D:\Dev\CurseProject\OPR\OPR\bin\Debug\OPR.exe
+D:\Dev\CurseProject\OPR\OPR\bin\Debug\OPR.pdb
+D:\Dev\CurseProject\OPR\OPR\obj\Debug\OPR.Properties.Resources.resources
+D:\Dev\CurseProject\OPR\OPR\obj\Debug\OPR.csproj.GenerateResource.Cache
+D:\Dev\CurseProject\OPR\OPR\obj\Debug\OPR.exe
+D:\Dev\CurseProject\OPR\OPR\obj\Debug\OPR.pdb
+D:\Dev\CurseProject\OPR\OPR\obj\Debug\OPR.ClientForm.resources

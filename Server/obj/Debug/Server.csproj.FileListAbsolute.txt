@@ -1,0 +1,56 @@
+D:\Dev\CurseProject\OPR\Server\bin\Debug\Server.exe.config
+D:\Dev\CurseProject\OPR\Server\bin\Debug\Server.exe
+D:\Dev\CurseProject\OPR\Server\bin\Debug\Server.pdb
+D:\Dev\CurseProject\OPR\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Dev\CurseProject\OPR\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Dev\CurseProject\OPR\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Dev\CurseProject\OPR\Server\obj\Debug\Server.exe
+D:\Dev\CurseProject\OPR\Server\obj\Debug\Server.pdb
+D:\Dev\CurseProject\OPR\Server\obj\Debug\Server.ServerForm.resources
+D:\Dev\CurseProject\Sveta\Server\bin\Debug\Server.exe.config
+D:\Dev\CurseProject\Sveta\Server\obj\Debug\Server.exe
+D:\Dev\CurseProject\Sveta\Server\obj\Debug\Server.pdb
+C:\Users\ПК\Desktop\Sveta\Server\bin\Debug\Server.exe.config
+C:\Users\ПК\Desktop\Sveta\Server\obj\Debug\Server.exe
+C:\Users\ПК\Desktop\Sveta\Server\obj\Debug\Server.pdb
+C:\Users\ПК\Desktop\Sveta\Server\bin\Debug\Server.exe
+C:\Users\ПК\Desktop\Sveta\Server\bin\Debug\Server.pdb
+C:\Users\ПК\Desktop\Sveta\Server\bin\Debug\System.Net.Http.dll
+C:\Users\ПК\Desktop\Sveta\Server\bin\Debug\System.Net.Http.xml
+C:\Users\ПК\Desktop\Sveta\Server\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Users\ПК\Desktop\Sveta\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\ПК\Desktop\Sveta\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\ПК\Desktop\Sveta\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ПК\Desktop\Sveta\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Teodor\Desktop\Sveta\Server\bin\Debug\Server.exe.config
+C:\Users\Teodor\Desktop\Sveta\Server\bin\Debug\Server.exe
+C:\Users\Teodor\Desktop\Sveta\Server\bin\Debug\Server.pdb
+C:\Users\Teodor\Desktop\Sveta\Server\bin\Debug\System.Net.Http.dll
+C:\Users\Teodor\Desktop\Sveta\Server\bin\Debug\System.Net.Http.xml
+C:\Users\Teodor\Desktop\Sveta\Server\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Users\Teodor\Desktop\Sveta\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\Teodor\Desktop\Sveta\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Teodor\Desktop\Sveta\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Teodor\Desktop\Sveta\Server\obj\Debug\Server.exe
+C:\Users\Teodor\Desktop\Sveta\Server\obj\Debug\Server.pdb
+C:\Users\Teodor\Desktop\Sveta\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Dev\мой\final curse\курсач\Server\bin\Debug\Server.exe.config
+D:\Dev\мой\final curse\курсач\Server\obj\Debug\Server.exe
+D:\Dev\мой\final curse\курсач\Server\obj\Debug\Server.pdb
+D:\Dev\мой\final curse\курсач\Server\bin\Debug\Server.exe
+D:\Dev\мой\final curse\курсач\Server\bin\Debug\Server.pdb
+D:\Dev\мой\final curse\курсач\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Dev\мой\final curse\курсач\Server\obj\Debug\Server.ServerForm.resources
+D:\Dev\мой\final curse\курсач\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Dev\мой\final curse\курсач\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Dev\мой\final curse\курсач\Server\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Dev\Курсовой проект\Курсовой проект\Server\bin\Debug\Server.exe.config
+D:\Dev\Курсовой проект\Курсовой проект\Server\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Dev\Курсовой проект\Курсовой проект\Server\obj\Debug\Server.exe
+D:\Dev\Курсовой проект\Курсовой проект\Server\obj\Debug\Server.pdb
+D:\Dev\Курсовой проект\Курсовой проект\Server\bin\Debug\Server.exe
+D:\Dev\Курсовой проект\Курсовой проект\Server\bin\Debug\Server.pdb
+D:\Dev\Курсовой проект\Курсовой проект\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Dev\Курсовой проект\Курсовой проект\Server\obj\Debug\Server.ServerForm.resources
+D:\Dev\Курсовой проект\Курсовой проект\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Dev\Курсовой проект\Курсовой проект\Server\obj\Debug\Server.csproj.GenerateResource.Cache

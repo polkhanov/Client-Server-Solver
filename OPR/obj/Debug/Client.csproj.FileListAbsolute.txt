@@ -1,0 +1,64 @@
+D:\Dev\CurseProject\OPR\OPR\bin\Debug\OPR.exe.config
+D:\Dev\CurseProject\OPR\OPR\bin\Debug\OPR.exe
+D:\Dev\CurseProject\OPR\OPR\bin\Debug\OPR.pdb
+D:\Dev\CurseProject\OPR\OPR\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Dev\CurseProject\OPR\OPR\obj\Debug\OPR.ClientForm.resources
+D:\Dev\CurseProject\OPR\OPR\obj\Debug\OPR.Properties.Resources.resources
+D:\Dev\CurseProject\OPR\OPR\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Dev\CurseProject\OPR\OPR\obj\Debug\OPR.exe
+D:\Dev\CurseProject\OPR\OPR\obj\Debug\OPR.pdb
+D:\Dev\CurseProject\Sveta\OPR\bin\Debug\OPR.exe.config
+D:\Dev\CurseProject\Sveta\OPR\obj\Debug\OPR.exe
+D:\Dev\CurseProject\Sveta\OPR\obj\Debug\OPR.pdb
+D:\Dev\CurseProject\Sveta\OPR\bin\Debug\OPR.exe
+D:\Dev\CurseProject\Sveta\OPR\bin\Debug\OPR.pdb
+D:\Dev\CurseProject\Sveta\OPR\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Dev\CurseProject\Sveta\OPR\obj\Debug\OPR.ClientForm.resources
+D:\Dev\CurseProject\Sveta\OPR\obj\Debug\OPR.Properties.Resources.resources
+D:\Dev\CurseProject\Sveta\OPR\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ПК\Desktop\Sveta\OPR\bin\Debug\OPR.exe.config
+C:\Users\ПК\Desktop\Sveta\OPR\obj\Debug\OPR.exe
+C:\Users\ПК\Desktop\Sveta\OPR\obj\Debug\OPR.pdb
+C:\Users\ПК\Desktop\Sveta\OPR\bin\Debug\OPR.exe
+C:\Users\ПК\Desktop\Sveta\OPR\bin\Debug\OPR.pdb
+C:\Users\ПК\Desktop\Sveta\OPR\bin\Debug\System.Net.Http.dll
+C:\Users\ПК\Desktop\Sveta\OPR\bin\Debug\System.Net.Http.xml
+C:\Users\ПК\Desktop\Sveta\OPR\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Users\ПК\Desktop\Sveta\OPR\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ПК\Desktop\Sveta\OPR\obj\Debug\OPR.ClientForm.resources
+C:\Users\ПК\Desktop\Sveta\OPR\obj\Debug\OPR.Properties.Resources.resources
+C:\Users\ПК\Desktop\Sveta\OPR\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Teodor\Desktop\Sveta\OPR\bin\Debug\OPR.exe.config
+C:\Users\Teodor\Desktop\Sveta\OPR\bin\Debug\OPR.exe
+C:\Users\Teodor\Desktop\Sveta\OPR\bin\Debug\OPR.pdb
+C:\Users\Teodor\Desktop\Sveta\OPR\bin\Debug\System.Net.Http.dll
+C:\Users\Teodor\Desktop\Sveta\OPR\bin\Debug\System.Net.Http.xml
+C:\Users\Teodor\Desktop\Sveta\OPR\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Users\Teodor\Desktop\Sveta\OPR\obj\Debug\OPR.ClientForm.resources
+C:\Users\Teodor\Desktop\Sveta\OPR\obj\Debug\OPR.Properties.Resources.resources
+C:\Users\Teodor\Desktop\Sveta\OPR\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Teodor\Desktop\Sveta\OPR\obj\Debug\OPR.exe
+C:\Users\Teodor\Desktop\Sveta\OPR\obj\Debug\OPR.pdb
+C:\Users\Teodor\Desktop\Sveta\OPR\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Dev\мой\final curse\курсач\OPR\bin\Debug\OPR.exe.config
+D:\Dev\мой\final curse\курсач\OPR\obj\Debug\OPR.exe
+D:\Dev\мой\final curse\курсач\OPR\obj\Debug\OPR.pdb
+D:\Dev\мой\final curse\курсач\OPR\bin\Debug\OPR.exe
+D:\Dev\мой\final curse\курсач\OPR\bin\Debug\OPR.pdb
+D:\Dev\мой\final curse\курсач\OPR\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Dev\мой\final curse\курсач\OPR\obj\Debug\OPR.ClientForm.resources
+D:\Dev\мой\final curse\курсач\OPR\obj\Debug\OPR.Properties.Resources.resources
+D:\Dev\мой\final curse\курсач\OPR\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Dev\мой\final curse\курсач\OPR\obj\Debug\OPR.About.resources
+D:\Dev\мой\final curse\курсач\OPR\obj\Debug\OPR.Lesson.resources
+D:\Dev\Курсовой проект\Курсовой проект\OPR\bin\Debug\OPR.exe.config
+D:\Dev\Курсовой проект\Курсовой проект\OPR\obj\Debug\OPR.exe
+D:\Dev\Курсовой проект\Курсовой проект\OPR\obj\Debug\OPR.pdb
+D:\Dev\Курсовой проект\Курсовой проект\OPR\bin\Debug\OPR.exe
+D:\Dev\Курсовой проект\Курсовой проект\OPR\bin\Debug\OPR.pdb
+D:\Dev\Курсовой проект\Курсовой проект\OPR\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Dev\Курсовой проект\Курсовой проект\OPR\obj\Debug\OPR.About.resources
+D:\Dev\Курсовой проект\Курсовой проект\OPR\obj\Debug\OPR.ClientForm.resources
+D:\Dev\Курсовой проект\Курсовой проект\OPR\obj\Debug\OPR.Lesson.resources
+D:\Dev\Курсовой проект\Курсовой проект\OPR\obj\Debug\OPR.Properties.Resources.resources
+D:\Dev\Курсовой проект\Курсовой проект\OPR\obj\Debug\Client.csproj.GenerateResource.Cache
